@@ -271,8 +271,6 @@ Hanya beberapa yang diuji untuk efisiensi.
 ## CIDR - GNS3
 
 ### Perhitungan CIDR
-Soal nomor 4: 
-> Pembagian IP dan routing harus **SEEFISIEN MUNGKIN**.
 
 Tabel CIDR tertera pada [Tabel K62_modul4_CIDR](K62_modul4_CIDR.xlsx)
 
